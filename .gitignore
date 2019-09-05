@@ -19,3 +19,9 @@ tmp/
 velocity.log
 .DS_Store
 logs
+.m2
+
+# gradle related ignore in sub directories
+.gradle
+build
+out
